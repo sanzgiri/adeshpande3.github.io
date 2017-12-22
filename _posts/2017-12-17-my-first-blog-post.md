@@ -21,3 +21,5 @@ images:
 1. The blog post is written in markdown syntax. I use prose.io as an online markdown editor. After you have composed and previewed your post, take a look at the metadata using the icon on the right. Here you can provide the `excerpt` for your blog post as well as direct link to it in the `permalink` (e.g. "/my-first-blog-post")
 
 1. Once you save your changes in prose.io, it will take a couple of minutes for your posts to show up on `username.github.io`
+
+1. In order to allow comments on your blog, you will have to connect your disqus account.
