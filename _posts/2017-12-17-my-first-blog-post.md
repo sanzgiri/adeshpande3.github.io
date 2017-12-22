@@ -12,7 +12,7 @@ images:
 
 1. Fork github repo [adeshpande3/adeshpande3.github.io](https://github.com/adeshpande3/adeshpande3.github.io) and rename it as `username.github.io` where `username` is your github username
  
-1. In this repo, edit file `_config.yml`: and update name, description, avatar, footer-links, url. You can edit this file from github itself
+1. In this repo, edit file `_config.yml` and update name, description (this is what appears below your name on your blog), avatar, footer-links, url. You can edit this file from github itself
 
 1. Create a `_posts` directory at the top level of this repo (if one does not exist). You can do this by `create new file` from the github repo page with the name "/_posts"
 
@@ -22,4 +22,4 @@ images:
 
 1. Once you save your changes in prose.io, it will take a couple of minutes for your posts to show up on `username.github.io`
 
-1. In order to allow comments on your blog, you will have to connect your disqus account.
+1. In order to allow comments on your blog, you will have to create a disqus account. Within disqus, select "I want to install Disqus on my site". The website name you provide here is your disqus shortname. After going through this, go back to your github.io repo and update the  `disqus_shortname` variable in the file `_includes/disqus.html`
