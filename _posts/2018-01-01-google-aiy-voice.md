@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: Create your own Echo Dot using Google AIY Voice Kit
 permalink: /google-aiy-voice
@@ -19,7 +19,3 @@ images:
     - Interfacing Options: enable `ssh`, `camera`
     - Advanced Options: Expand Filesystem
     - Boot Options: Console AutoLogin
-
-
-
-
