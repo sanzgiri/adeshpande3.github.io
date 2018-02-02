@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+excerpt: Setting up AWS Cloud9 on your home server
+permalink: /using-AWS-Cloud9-on-home-server
 ---
 ## Setting up AWS Cloud 9 to ssh to your home Ubuntu server
 
