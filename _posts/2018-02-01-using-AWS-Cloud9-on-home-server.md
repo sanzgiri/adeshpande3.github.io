@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: Setting up AWS Cloud9 on your home server
 permalink: /using-AWS-Cloud9-on-home-server
