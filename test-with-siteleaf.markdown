@@ -1,6 +1,7 @@
 ---
 title: Test with Siteleaf
 date: 2018-02-04 09:03:00 Z
+layout: post
 ---
 
 ## Trying out something with siteleaf
