@@ -1,9 +1,11 @@
 ---
-published: true
+title: Using Aws Cloud9 On Home Server
+date: 2018-02-01 00:00:00 Z
+permalink: "/using-AWS-Cloud9-on-home-server"
 layout: post
 excerpt: Setting up AWS Cloud9 on your home server
-permalink: /using-AWS-Cloud9-on-home-server
 ---
+
 ## Setting up AWS Cloud 9 to ssh to your home Ubuntu server
 
 ### Prepare your home Ubuntu server

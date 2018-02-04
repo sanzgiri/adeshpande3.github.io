@@ -1,6 +1,6 @@
 ---
+permalink: "/projects/"
 layout: page
-permalink: /projects/
 ---
 
 ** List of Projects on GitHub **

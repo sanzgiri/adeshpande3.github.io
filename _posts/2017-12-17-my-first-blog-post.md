@@ -1,12 +1,12 @@
 ---
+title: My First Blog Post
+date: 2017-12-17 00:00:00 Z
+permalink: "/my-first-blog-post"
 layout: post
 excerpt: how this blog was created
-permalink: /my-first-blog-post
-published: true
 images:
-  - url: /assets/Cover11th.png
+- url: "/assets/Cover11th.png"
 ---
-
 
 ## How this blog was created
 

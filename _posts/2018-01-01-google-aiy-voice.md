@@ -1,11 +1,13 @@
 ---
-published: true
+title: Google Aiy Voice
+date: 2018-01-01 00:00:00 Z
+permalink: "/google-aiy-voice"
 layout: post
 excerpt: Create your own Echo Dot using Google AIY Voice Kit
-permalink: /google-aiy-voice
 images:
-  - url: /assets/Cover11th.png
+- url: "/assets/Cover11th.png"
 ---
+
 ## Adventures with Google AIY Voice Kit
 
 ### Raspberry Pi setup notes
