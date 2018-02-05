@@ -7,10 +7,10 @@ date: 2018-02-04 09:06:00 Z
 
 {% highlight ruby %}
 def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
+@widget = Widget(params\[:id\])
+respond_to do |format|
+format.html # show.html.erb
+format.json { render json: @widget }
+end
 end
 {% endhighlight %}
